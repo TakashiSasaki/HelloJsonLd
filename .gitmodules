@@ -1,6 +1,3 @@
-[submodule "json-ld.org"]
-	path = json-ld.org
-	url = https://github.com/json-ld/json-ld.org
-[submodule "normalization"]
-	path = normalization
-	url = https://github.com/json-ld/normalization
+[submodule "jsonld.js"]
+	path = jsonld.js
+	url = http://github.com/digitalbazaar/jsonld.js
