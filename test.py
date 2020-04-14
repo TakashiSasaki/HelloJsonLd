@@ -3,6 +3,7 @@ n3  = '''
 @prefix dc: <http://purl.org/dc/terms/> .
 <http://example.org/about> dc:title "Someone's Homepage"@en .
 <#pat> <#knows> <#jo> .
+<#pat> dc:name "John".
 @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl:  <http://www.w3.org/2002/07/owl#> .
